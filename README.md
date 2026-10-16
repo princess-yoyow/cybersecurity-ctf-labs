@@ -4,9 +4,7 @@ A growing collection of hands-on cybersecurity challenges and practical security
 
 ## Overview
 
-This repository documents my continuous learning journey in cybersecurity through Capture The Flag (CTF) challenges and hands-on problem-solving.
-
-The goal is to strengthen practical security skills, develop analytical thinking, and document technical knowledge gained from authorized training environments.
+This repository documents my continuous learning journey in cybersecurity through Capture The Flag (CTF) challenges and hands-on problem-solving. The goal is to strengthen practical security skills, develop analytical thinking, and document technical knowledge gained from authorized training environments.
 
 ## Platform
 
